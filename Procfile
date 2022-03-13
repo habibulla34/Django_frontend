@@ -1,0 +1,1 @@
+web:waitress-serve --port=8000 cWork_microjob.wsgi:application
