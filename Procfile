@@ -1,1 +1,1 @@
-web:waitress-serve --port=$PORT cWork_microjob.wsgi:application
+web: waitress-serve --port=$PORT cWork_microjob.wsgi:application
